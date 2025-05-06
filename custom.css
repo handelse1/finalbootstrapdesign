@@ -96,7 +96,7 @@ p{
 
 .carousel-control-prev-icon, 
 .carousel-control-next-icon {
-    background-color: #8FC21E;
+    background-color: #514238;
 }
 
 .crepe-img {
@@ -107,5 +107,8 @@ p{
 
 footer {
 	background-color:#514238 !important;
-	font-family: cal-sans, sans-serif;
+}
+
+footer p {
+	font-family: truculenta, sans-serif;
 }
